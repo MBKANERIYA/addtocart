@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="login-form col-3 mx-auto">
+        <div class="login p-4">
+            <div class="login-logo">
+                <img src="images/login_amazon_logo.png" style="height: 50px;" class="mx-auto" alt="">
+            </div>
+
+            <div class="login-details pb-4">
+
+                <h3>Login</h3>
+
+                <label>Email :- </label> <br>
+                <input type="text" id="email"> <br><br>
+                <label>Password :-</label> <br>
+                <input type="number" id="password">
+
+                <button class="login-btn mt-5" onclick="login_data()">Login</button>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+
+        let login_data = () => {
+
+            let a_email = "admin@123";
+            let a_password = "123";
+
+            let u_email = "user@456";
+            let u_password = "456";
+
+            let email = document.getElementById("email").value;
+            let password = document.getElementById("password").value;
+
+            if (email === a_email) {
+                if (password === a_password) {
+                    location.href = "admin.html";
+                }
+                else {
+                    alert("enter valid password");
+                    // console.log("Enter the valid");
+                }
+            }
+            else {
+                alert("Enter valid email");
+                // console.log("Enter the valid");
+            }
+
+            if (email === u_email) {
+                if (password === u_password) {
+                    location.href = "index.html";
+                }
+                else {
+                    alert("Enter the vaild password");
+                    // console.log("Enter the valid");
+                }
+            }
+            else {
+                alert("Enter the valid email");
+                // console.log("Enter the valid");
+            }
+        }
+    </script>
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+
+</body>
+
+
+
+</html>

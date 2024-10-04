@@ -1,0 +1,3319 @@
+/* ======================== 1513px ========================= */
+
+@media(max-width:1513px) {
+
+    /* ==================== goods ====================== */
+
+    .goods .row .col-xxl-3:first-child .line-1 .images-data a p {
+        margin-bottom: 9px !important;
+    }
+}
+
+/* ======================= 1485px ====================== */
+
+@media(max-width:1485px) {
+
+    /* ==================== bestseller ===================  */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 45px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 76px !important;
+    }
+
+}
+
+/* ========================= 1477px ======================== */
+
+@media(max-width:1477px) {
+    /* ======================== goods ========================== */
+
+    .goods .col-xxl-3:nth-child(3) .link {
+        margin-top: 21px !important;
+    }
+
+    /* ======================== bestsellers ================= */
+
+    .bestsellers .col-xxl-3:nth-child(4) .link {
+        margin-top: 54px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 77px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 37px !important;
+    }
+
+}
+
+/* =========================== 1460px ======================== */
+
+@media(max-width:1460px) {
+
+    /* ====================== bestsellers ================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 48px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 80px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(4) .link {
+        margin-top: 55px !important;
+    }
+}
+
+
+/* =========================== 1430px ======================== */
+
+@media(max-width:1430px) {
+
+    /* ====================== bestsellers ================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 53px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 86px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(4) .link {
+        margin-top: 55px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(4) .link {
+        margin-top: 59px !important;
+    }
+}
+
+/* =========================== 1399px ========================= */
+
+@media(max-width:1399px) {
+
+    /* ========================= goods =========================== */
+
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 23px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 20px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 47px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(8) .link {
+        margin-top: 2px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 44px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+
+        margin-bottom: 25px !important;
+    }
+
+    /* ======================= sofa ===================== */
+
+    .sofa .sofa-heading {
+        margin-left: 20px !important;
+    }
+
+    /* ====================== bestsellers =================== */
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 15px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 62px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 42px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: -3px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .line-1 .images-data a p {
+        margin-bottom: 3px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 38px !important;
+    }
+}
+
+/* =========================== 1365px =========================  */
+
+@media (max-width:1365px) {
+
+    /* ====================== header ========================== */
+    header .first-header .nav-search {
+        width: 612px !important;
+    }
+
+    /* ====================== goods ========================= */
+
+    .font-size {
+        font-size: 11px !important;
+    }
+
+    .today .today-data .dis-data {
+        font-size: 12px !important;
+    }
+
+    /* ======================= sofa ======================= */
+
+    .sofa .sofa-heading {
+        margin-left: 14px !important;
+    }
+
+    /* ====================== bestsellers ================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 30px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 23px !important;
+    }
+}
+
+/* ======================== 1360px ====================== */
+
+@media(max-width:1360px) {
+    /* =================== bestsellers ==================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 34px !important;
+    }
+}
+
+/* ========================= 1328px ========================= */
+
+@media(max-width:1328px) {
+
+    /* ======================= goods ========================= */
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 11px !important;
+    }
+
+    /* ======================= today ======================= */
+
+    .font-size {
+        font-size: 10px !important;
+    }
+
+    .today .today-data .dis-data {
+        font-size: 11px !important;
+    }
+
+    /* ==================== sofa ========================== */
+
+    .sofa .furniture-image img {
+        padding: 0 2px !important;
+    }
+
+    /* ===================== bestsellers ================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 31px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 55px !important;
+    }
+
+}
+
+/* ======================== 1308px ========================= */
+@media(max-width:1308px) {
+
+    /* ===================== goods ================ */
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 10px !important;
+    }
+
+    /* ==================== bestsellers =============== */
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 31px !important;
+    }
+}
+
+/* ======================== 1304px ====================== */
+
+@media(max-width:1303px) {
+    /* ======================= bestsellers =================== */
+
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 45px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 10px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 28px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .line-1 .images-data a p {
+        margin-bottom: 31px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 5px !important;
+    }
+}
+
+/* ======================= 1288px ====================== */
+
+@media(max-width:1288px) {
+
+    /* ================== bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:nth-child(8) .link {
+        margin-top: 29px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 30px !important;
+    }
+}
+
+/* ======================== 1286px ======================== */
+
+@media(max-width:1286px) {
+
+    /* ================= bestsellers =================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 3px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 36px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 69px !important;
+    }
+}
+
+/* ======================== 1250px ======================== */
+
+@media(max-width:1250px) {
+
+    /* ==================== bestsellesr =============== */
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 38px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 7px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 29px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 32px !important;
+    }
+}
+
+/* ======================== 1200px ========================== */
+
+@media(max-width:1200px) {
+
+    /* =================== header ==================== */
+    header .first-header .nav-search {
+        width: 360px !important;
+    }
+
+    /* =================== sofa =================== */
+
+    .sofa .sofa-heading {
+        margin-left: 8px !important;
+    }
+
+    .head {
+        font-size: 19px !important;
+    }
+
+    /* =================== bestsellers ======================= */
+
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 59px !important;
+    }
+
+
+}
+
+/* ======================== 1192px ======================= */
+
+@media(max-width:1192px) {
+
+    /* ===================== goods ====================== */
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 20px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 13px !important;
+    }
+
+    /* =================== bestsellers ================= */
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 38px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 8px !important;
+    }
+}
+
+/* ====================== 1190px ======================= */
+
+@media(max-width:1190px) {
+
+    /* ==================== bestsellers ===================== */
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 28px !important;
+    }
+}
+
+/* ====================== 1176px ======================== */
+
+@media(max-width:1176px) {
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 18px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 13px !important;
+    }
+
+    /* ==================== bestsellers ================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 35px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 8px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 38px !important;
+    }
+}
+
+/* ===================== 1151px ====================== */
+
+@media(max-width:1151px) {
+    /* ================= bestsellers =================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 26px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 20px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 29px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 33px !important;
+    }
+}
+
+/* ====================== 1135px ========================= */
+
+@media(max-width:1135px) {
+
+    /* ===================== goods ===================== */
+    .goods .row .col-xxl-3:first-child .link {
+        margin-top: 23px !important;
+    }
+
+    /* ===================== today ====================== */
+
+    .today .swiper-slide:first-child .today-data:first-child {
+        display: none;
+    }
+
+    /* ===================== bestsellers ============= */
+
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 16px !important;
+    }
+}
+
+/* ====================== 1108px ======================== */
+
+@media(max-width:1108px) {
+
+    /* ================== goods ======================== */
+
+    .goods .col-xxl-3:nth-child(3) .link {
+        margin-top: 4px !important;
+    }
+
+    /* =================== bestsellers ================== */
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 39px !important;
+    }
+}
+
+/* ====================== 1100px ======================== */
+
+@media(max-width:1100px) {
+    .goods h2 {
+        font-size: 18px !important;
+        line-height: 24px !important;
+    }
+
+    .goods .card .body .images-data p {
+        font-size: 10px !important;
+    }
+
+    .goods .row .col-xxl-3:first-child .link,
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 40px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 43px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 36px !important;
+    }
+
+    .goods .col-xxl-3:nth-child(3) .link {
+        margin-top: 25px !important;
+    }
+
+    /* =================== bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 1px !important;
+    }
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 12px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 31px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 21px !important;
+    }
+
+}
+
+/* ====================== 1075px ====================== */
+
+@media(max-width:1075px) {
+
+    /* ================== bestsellers ================== */
+
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 11px !important;
+    }
+}
+
+/* ====================== 1052px ====================== */
+
+@media(max-width:1052px) {
+
+    /* ==================== goods ==================== */
+
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 13px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 21px !important;
+    }
+
+    /* ================= bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 28px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 4px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 6px !important;
+    }
+}
+
+/* ====================== 1050px ====================== */
+
+@media(max-width:1050px) {
+
+    /* ================= bestsellers =============== */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 44px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 50px !important;
+    }
+}
+
+/* ====================== 1038px ======================= */
+
+@media(max-width:1038px) {
+
+    /* ==================== goods ====================== */
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 18px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 13px !important;
+    }
+
+    /* =================== bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:first-child .line-1 .images-data a img {
+        margin-bottom: 2px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 5px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 27px !important;
+    }
+}
+
+/* ==================== 1006px ====================== */
+
+@media(max-width:1006px) {
+    /* =================== bestsellers ============ */
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 7px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 50px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 60px !important;
+    }
+}
+
+/* ======================= 992px ======================== */
+
+@media(max-width:992px) {
+
+    /* ======================= header ==================== */
+    header .first-header .nav-search {
+        width: 340px !important;
+        height: 36px !important;
+    }
+
+    header .first-header .nav-search input::placeholder {
+        font-size: 13px !important;
+    }
+
+    header .first-header .cart .list {
+        display: none;
+    }
+
+    /* ======================== goods ==================== */
+
+    .goods .row .col-xxl-3:first-child .link {
+        margin-top: 23px !important;
+    }
+
+    /* ==================== today =================== */
+
+    .today h4 {
+        font-size: 20px !important;
+    }
+
+    /* ===================== sofa ===================== */
+
+    .head {
+        font-size: 17px !important;
+    }
+
+    /* ================ watch ================= */
+
+    card {
+        width: 32% !important;
+    }
+}
+
+/* ======================== 977px ==================== */
+
+@media(max-width:977px) {
+
+    /* ==================== goods ==================== */
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 20px !important;
+    }
+
+    /* ================ bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 42px !important;
+    }
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 66px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 7px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 26px !important;
+    }
+}
+
+/* ======================== 970px ==================== */
+
+@media(max-width:970px) {
+
+    /* ==================== goods ==================== */
+    .goods .row .col-xxl-3:first-child .link,
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 40px !important;
+    }
+
+    /* ==================== bestsellers ============= */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 50px !important;
+    }
+
+}
+
+/* ======================= 965px ======================= */
+
+@media(max-width:965px) {
+
+    /* ====================== goods ==================== */
+
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 20px !important;
+    }
+
+    /* ================== bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 7px !important;
+    }
+
+}
+
+/* ===================== 950px ===================== */
+
+@media(max-width:950px) {
+
+    /* ================= bestsellers ================ */
+
+    .bestsellers .col-xxl-3:nth-child(3) .link {
+        margin-top: 75px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 55px !important;
+    }
+}
+
+/* ======================= 925px ====================== */
+
+@media(max-width:925px) {
+
+    /* =================== goods ====================== */
+
+    .goods h2 {
+        font-size: 17px !important;
+        line-height: 22px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(3) .link {
+        margin-top: 7px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 20px !important;
+    }
+
+    /* ==================== bestsellers =============== */
+
+    .bestsellers .row .col-xxl-3:nth-child(3) .link {
+        margin-top: 82px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .line-1 .images-data a p {
+        margin-bottom: 16px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 48px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 23px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 10px !important;
+    }
+}
+
+/* ====================== 923px ======================= */
+
+@media(max-width:923px) {
+
+    /* ===================== goods ====================== */
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 20px !important;
+    }
+
+}
+
+/* ======================= 912px ===================== */
+
+@media(max-width:912px) {
+    /* ================= bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 37px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 28px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 50px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(3) .link {
+        margin-top: 85px !important;
+    }
+}
+
+/* ====================== 900px ======================= */
+
+@media(max-width:900px) {
+
+    /* =========================== header =================== */
+
+    header .first-header {
+        height: 50px !important;
+    }
+
+    header .first-header .nav-search {
+        width: 253px !important;
+        height: 36px !important;
+    }
+
+    header .first-header .nav-logo {
+        height: 38px !important;
+        width: 77px !important;
+    }
+
+    header .first-header .nav-location .delivery {
+        line-height: 13px !important;
+    }
+
+    header .first-header .nav-location .delivery p:first-child,
+    header .first-header .account .hello {
+        font-size: 10px !important;
+    }
+
+    .first-header .location i {
+        font-size: 13px;
+    }
+
+    header .first-header .nav-location .delivery p:last-child {
+        font-size: 13px !important;
+    }
+
+    header .first-header .nav-search select {
+        font-size: 10px !important;
+        padding: 3px !important;
+    }
+
+    header .first-header .nav-search .scan img {
+        height: 17px !important;
+        width: 24px !important;
+    }
+
+    header .first-header .nav-search .search-icon i {
+        font-size: 15px !important;
+    }
+
+    header .first-header .india img {
+        height: 13px !important;
+        width: 16px !important;
+    }
+
+    header .first-header .india .language {
+        font-size: 11px !important;
+    }
+
+    header .first-header .same {
+        font-size: 7px !important;
+    }
+
+    header .first-header .list {
+        font-size: 13px !important;
+    }
+
+    header .first-header .cart .count i {
+        font-size: 25px !important;
+    }
+
+    header .first-header .cart .count .add {
+        right: 12px !important;
+        bottom: 9px !important;
+        font-size: 14px !important;
+    }
+
+    header .first-header .cart .count #add {
+        right: 13px !important;
+        bottom: 9px !important;
+        font-size: 14px;
+    }
+}
+
+/* ======================= 885px ====================== */
+
+@media(max-width:885px) {
+
+    /* ==================== goods ===================== */
+
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 38px !important;
+    }
+
+    /* =================== bestsellers =============== */
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 59px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(3) .link {
+        margin-top: 92px !important;
+    }
+}
+
+/* ======================= 875px ======================= */
+
+@media(max-width:875px) {
+
+    /* =================== goods ======================= */
+
+    .goods h2 {
+        font-size: 16px !important;
+        line-height: 20px !important;
+    }
+
+    /* ===================== today ===================== */
+
+    .today .today-data .dis-data {
+        font-size: 10px !important;
+    }
+}
+
+
+/* ======================= 867px ====================== */
+
+@media(max-width:867px) {
+
+    /* ==================== goods ====================== */
+
+    .goods .row:first-child .col-xxl-3:nth-child(2) .link-2 {
+        margin-top: 20px !important;
+    }
+}
+
+/* ======================= 861px ======================= */
+
+@media(max-width:861px) {
+
+    /* ===================== goods ===================  */
+    .goods .row:first-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 10px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 54px !important;
+    }
+}
+
+/* ====================== 858px ================= */
+
+@media(max-width:858px) {
+
+    /* =============== footer =================== */
+
+    footer .details-links a {
+        font-size: 11px !important;
+        line-height: 14px !important;
+    }
+}
+
+/* ======================= 845px ================ */
+
+@media(max-width:845px) {
+
+    /* ======================= goods ==================== */
+    .goods .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p,
+    .goods .row:last-child .col-xxl-3:nth-child(6) .line-1 .images-data a p {
+        margin-bottom: 10px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 7px !important;
+    }
+
+    .goods .row .col-xxl-3:first-child .line-1 .images-data a p {
+        margin-bottom: 29px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 28px !important;
+    }
+
+    /* =================== sofa ================== */
+
+    .head {
+        font-size: 16px !important;
+    }
+
+    .sofa .sofa-heading a {
+        font-size: 11px;
+        padding-bottom: 8px;
+    }
+
+    /* ===================== bestsellers ================== */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 60px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 104px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 22px !important;
+    }
+}
+
+/* ====================== 836px ================== */
+
+@media(max-width:836px) {
+
+    /* ====================== goods ============= */
+
+    .goods .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 30px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:first-child .line-1 .images-data a p {
+        margin-bottom: 30px !important;
+    }
+
+    /* =================== bestsellers ============== */
+
+    .goods .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 100px !important;
+    }
+}
+
+/* ======================== 835px ============= */
+
+@media(max-width:835px) {
+
+    /* ================== goods ============ */
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 29px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 30px !important;
+    }
+}
+
+/* ======================== 834px ============= */
+
+@media(max-width:834px) {
+
+    /* ================== goods ============ */
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 10px !important;
+    }
+
+    /* ================ bestsellers =============== */
+
+    .bestsellers .row .col-xxl-3:nth-child(8) .link {
+        margin-top: 12px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: -1px !important;
+    }
+
+}
+
+/* ========================= 823px ==================== */
+
+@media(max-width:823px) {
+
+    /* ======================= goods =================== */
+
+    .goods .row .col-xxl-3:first-child .link,
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 20px !important;
+    }
+
+    /* ===================== bestsellers ================  */
+
+    .bestsellers .row .col-xxl-3:first-child .link,
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 63px !important;
+    }
+
+}
+
+/* ======================== 809px ============= */
+
+@media(max-width:809px) {
+
+    /* ================== goods ============ */
+
+    .goods .row .col-xxl-3:first-child .link,
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 20px !important;
+    }
+
+    /* ===================== bestsellers ============== */
+
+    .bestsellers .row .col-xxl-3:first-child .link,
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 67px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 112px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 27px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 40px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 37px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 14px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .line-1 .images-data a p {
+        margin-bottom: 16px !important;
+    }
+
+}
+
+/* ======================= 806px ===================== */
+
+@media(max-width:806px) {
+
+    /* ================ bestsellers =================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 10px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .line-1 .images-data a p {
+        margin-bottom: 6px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 12px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 25px !important;
+    }
+}
+
+/* ======================= 799px ====================== */
+
+@media(max-width:799px) {
+
+    /* ================= goods ======================= */
+
+    .goods .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 9px !important;
+    }
+
+    /* =================== bestsellers ================ */
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 112px !important;
+    }
+
+    /* ==================== footer ==================== */
+
+    .foot-panel2 p {
+        font-size: 14px !important;
+    }
+
+    footer a {
+        font-size: 12px !important;
+        line-height: 14px;
+    }
+
+    footer .details-links a {
+        font-size: 10px !important;
+        line-height: 13px !important;
+    }
+
+    .footer-links {
+        height: 256px !important;
+    }
+
+}
+
+/* ======================== 795px ===================== */
+
+@media(max-width:795px) {
+
+    /* ==================== goods ====================== */
+    .goods .row .col-xxl-3:nth-child(7) .link,
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 28px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 26px !important;
+    }
+
+    /* =================== bestsellers ============= */
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link,
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 13px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 0px !important;
+    }
+}
+
+/* ======================== 787px ================== */
+
+@media(max-width:787px) {
+
+    /* ================== goods ====================== */
+
+    .goods .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 9px !important;
+    }
+
+    /* ================ bestsellers ================= */
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 112px !important;
+    }
+
+}
+
+/* ======================== 786px ===================== */
+
+@media(max-width:786px) {
+
+    /* ==================== goods ==================== */
+
+    .goods .row .col-xxl-3:nth-child(2) .link,
+    .goods .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 2px !important;
+    }
+
+    /* ===================== bestsellers ============== */
+
+    .bestsellers .row .col-xxl-3:first-child .link,
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 72px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 117px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 40px !important;
+    }
+}
+
+/* ====================== 782px ====================== */
+
+@media(max-width:782px) {
+
+    /* ==================== goods ===================== */
+
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 49px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(7) .line-1 .images-data a p {
+        margin-bottom: 40px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 35px !important;
+    }
+
+    /* ====================== bestsellers =============== */
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link,
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 13px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 0px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 24px !important;
+    }
+}
+
+/* ========================= 777px =================== */
+
+@media(max-width:777px) {
+
+    /* ================ footer ============= */
+
+    .foot-panel3 .footer-language {
+        padding: 1px 8px 4px 8px !important;
+    }
+
+    .foot-panel2 p {
+        font-size: 12px !important;
+    }
+
+    footer a {
+        font-size: 10px !important;
+        line-height: 9px;
+    }
+
+    footer .establish-link {
+        font-size: 10px !important;
+    }
+
+    .footer-links {
+        height: 197px !important;
+    }
+}
+
+/* ========================= 769px ======================= */
+
+@media (max-width: 769px) {
+    .goods .row:first-child .col-xxl-3:first-child .line-1 .images-data a p {
+        margin-bottom: 10px !important;
+    }
+
+    /* ======================= sofa ====================== */
+
+    .head {
+        font-size: 15px !important;
+    }
+
+    .sofa .sofa-heading a {
+        font-size: 11px;
+        padding-bottom: 6px;
+    }
+
+    .sofa .sofa-heading a {
+        font-size: 11px;
+        padding-bottom: 6px;
+    }
+
+    .sofa .sofa-heading a {
+        font-size: 11px;
+        padding-bottom: 6px;
+    }
+}
+
+
+/* ======================= 754px ====================== */
+
+@media (max-width: 754px) {
+
+    /* ================ goods ======================== */
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 32px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 0px !important;
+    }
+
+    /* ================== bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 37px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 6px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 15px !important;
+    }
+
+}
+
+/* ====================== 745px ====================== */
+
+@media(max-width: 745px) {
+
+    /* ================== bestsellers ============== */
+
+    .bestsellers h2 {
+        font-size: 15px !important;
+        line-height: 19px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:first-child .link,
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 67px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 114px !important;
+    }
+
+    /* ==================== footer ================ */
+
+    footer .details-links a {
+        font-size: 9px !important;
+        line-height: 12px !important;
+    }
+}
+
+/* ======================= 713px =========================*/
+
+@media (max-width: 713px) {
+
+    /* ===================== goods ====================== */
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 18px !important;
+    }
+
+    /* ===================== today ==================== */
+
+    .today .today-data .dis-data {
+        font-size: 9px !important;
+    }
+
+    .font-size {
+        font-size: 9px !important;
+    }
+
+    .today h4 {
+        font-size: 19px !important;
+    }
+
+}
+
+/* ====================== 711px ================== */
+
+@media(max-width:711px) {
+
+    /* =================== bestsellers ============ */
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 33px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 23px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:first-child .link,
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 58px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 107px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 41px !important;
+    }
+}
+
+/* ======================= 709px ======================= */
+
+@media(max-width:709px) {
+
+    /* =================== goods ==================== */
+
+    .goods .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 9px !important;
+    }
+}
+
+/* ======================== 707px ====================== */
+
+@media(max-width:707px) {
+
+    /* ======================== goods ========================== */
+
+    .goods .row:last-child .col-xxl-3:nth-child(7) .line-1 .images-data a p {
+        margin-bottom: 21px !important;
+    }
+}
+
+/* ====================== 703px ======================== */
+
+@media(max-width:703px) {
+
+    /* ===================== goods ==================== */
+
+    .goods .card .body .images-data a p {
+        font-size: 8px !important;
+        line-height: 12px !important;
+    }
+
+    .goods .row .col-xxl-3 .link {
+        font-size: 10px !important;
+    }
+
+    .goods h2 {
+        font-size: 14px !important;
+        line-height: 16px !important;
+    }
+
+    .goods .card .body .images-data p {
+        line-height: 14px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(7) .line-1 .images-data a p {
+        margin-bottom: 27px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 13px !important;
+    }
+
+    .goods .row .col-xxl-3:first-child .link,
+    .goods .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 35px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:nth-child(2) .link-2 {
+        margin-top: 24px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 16px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 24px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 27px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(8) .link {
+        margin-top: 5px !important;
+    }
+
+    .goods .card .body .images-data p {
+        line-height: 14px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 19px !important;
+    }
+
+    /* ==================== bestsellers ============= */
+
+    .bestsellers .card .body .images-data a p {
+        font-size: 10px !important;
+        line-height: 18px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 61px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 110px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 43px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 33px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 20px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(8) .link {
+        margin-top: 20px !important;
+    }
+}
+
+/* ======================= 702px ======================= */
+
+@media(max-width:702px) {
+
+    header .first-header .nav-location .delivery p:last-child,
+    header .first-header .list {
+        font-size: 11px !important;
+    }
+
+    header .first-header .india img {
+        height: 10px !important;
+        width: 13px !important;
+        margin-top: 4px !important;
+    }
+
+    header .first-header .nav-location .delivery p:last-child,
+    header .first-header .list {
+        font-size: 10px !important;
+    }
+
+    header .first-header .nav-location .delivery p:first-child,
+    header .first-header .account .hello {
+        font-size: 8px !important;
+    }
+
+    header .first-header .nav-search {
+        width: 233px !important;
+        height: 30px !important;
+    }
+
+    header .first-header .cart .count i {
+        font-size: 20px !important;
+    }
+
+    header .first-header .cart .count .add {
+        right: 11px !important;
+        font-size: 11px !important;
+    }
+
+    header .first-header .cart .count #add {
+        right: 11px !important;
+        bottom: 8px !important;
+        font-size: 12px;
+    }
+}
+
+/* ========================= 692px ==================== */
+
+@media (max-width: 692px) {
+
+    /* ===================== goods ===================== */
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 30px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 44px !important;
+    }
+
+    /* ================== bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 15px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 20px !important;
+    }
+
+    /* =================== footer ================ */
+
+    .foot-panel2 p {
+        font-size: 11px !important;
+        margin-bottom: 0px !important;
+    }
+
+    footer a {
+        font-size: 9px !important;
+    }
+
+    .foot-panel1 {
+        height: 35px !important;
+    }
+
+}
+
+/* ========================= 685px ===================== */
+
+@media(max-width:685px) {
+
+    /* =================== 685px ======================== */
+
+    .goods .row .col-xxl-3:nth-child(4) .line-1 .images-data p {
+        margin-bottom: 21px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 16px !important;
+    }
+
+    /* =============== bestsellers ================== */
+
+    .bestsellers .card .body .images-data a p {
+        line-height: 15px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 25px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 33px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 28px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 19px !important;
+    }
+}
+
+/* =================== 679px ================== */
+
+@media(max-width:679px) {
+
+    /* ============== footer ============= */
+
+    footer .details-links a {
+        font-size: 8px !important;
+        line-height: 11px !important;
+    }
+
+    footer .details-links {
+        padding: 15px 0 !important;
+    }
+
+
+}
+
+/* ======================= 678px ====================== */
+
+@media(max-width:678px) {
+
+    /* ================== bestsellers =============== */
+
+    .bestsellers .row .col-xxl-3:nth-child(8) .link {
+        margin-top: 5px !important;
+    }
+}
+
+/* ======================= 671px ======================== */
+
+
+@media (max-width: 671px) {
+
+    /* ======================== goods ==================== */
+    .goods .row .col-xxl-3:first-child .link {
+        margin-top: 17px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:first-child .line-1 .images-data a p {
+        margin-bottom: 19px !important;
+    }
+
+    /* ---------------------- sofa -------------------- */
+
+    .head {
+        font-size: 14px !important;
+    }
+
+    .sofa .sofa-heading a {
+        font-size: 10px !important;
+    }
+}
+
+/* ======================= 668px ================= */
+
+@media(max-width:668px) {
+
+    /* ================ bestsellers ============== */
+
+    .bestsellers .card .body .images-data a p {
+        font-size: 9px !important;
+        line-height: 14px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 55px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 101px !important;
+    }
+
+    /* ================= watch ================== */
+
+    .watch .watch-body .watch-title h2 {
+        font-size: 14px !important;
+    }
+
+    .watch .watch-body .watch-title h2:last-child {
+        line-height: 21px !important;
+    }
+
+    .watch .past-data p,
+    .watch .watch-save span:first-child,
+    .watch .watch-save span:last-child,
+    .watch .watch-prime {
+        font-size: 12px !important;
+    }
+
+
+    .watch .watch-btn a,
+    .watch .watch-body a {
+        font-size: 10px !important;
+    }
+
+    .watch .watch-price .current-price span:last-child {
+        font-size: 22px !important;
+    }
+
+    .watch .watch-price .watch-mrp span {
+        font-size: 12px !important;
+    }
+
+    .watch .watch-price .watch-discount span {
+        font-size: 12px !important;
+    }
+}
+
+/* ====================== 659px ========================= */
+
+@media (max-width: 659px) {
+
+    /* ==================== goods ================== */
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 31px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 14px !important;
+    }
+
+    /* ==================== bestsellers =============== */
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 33px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 21px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 50px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 95px !important;
+    }
+
+}
+
+/* ======================= 645px ======================= */
+
+
+@media (max-width: 645px) {
+
+    /* ====================== goods ====================== */
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 20px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(7) .line-1 .images-data a p {
+        margin-bottom: 21px !important;
+    }
+
+    /* ==================== bestsellers ================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 45px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 90px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 13px !important;
+    }
+
+    /* ============== footer =============== */
+
+    .footer-country ul a {
+        padding: 0 6px !important;
+    }
+}
+
+/* ====================== 632px ========================= */
+
+@media (max-width: 632px) {
+
+    /* ================== goods ======================= */
+    .goods .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 4px !important;
+    }
+
+    /* ------------------ sofa ------------------- */
+
+    .head {
+        font-size: 13px !important;
+    }
+
+    /* ================ bestsellers ============= */
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 28px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 86px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 39px !important;
+    }
+}
+
+/* =========================== 629px ================== */
+
+@media(max-width:629px) {
+
+    /* ============== bestsellers ================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 0px !important;
+    }
+}
+
+/* ======================== 627px ====================== */
+
+@media(max-width:627px) {
+
+    /* ================== goods ======================== */
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 8px !important;
+    }
+
+}
+
+/* ====================== 625px ======================= */
+
+@media(max-width:625px) {
+
+    /* =================== bestsellers ============== */
+
+    .bestsellers h2 {
+        font-size: 12px !important;
+        line-height: 15px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 5px !important;
+    }
+}
+
+/* ======================== 624px ======================= */
+
+@media (max-width: 624px) {
+
+    /* ==================== goods ===================== */
+
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 38px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 28px !important;
+    }
+
+    /* =================== bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 0px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 35px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 36px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 82px !important;
+    }
+
+    /* =================== footer ============= */
+
+    footer a {
+        font-size: 8px !important;
+        line-height: 5px;
+    }
+
+    .footer-links {
+        height: 176px !important;
+    }
+
+    .footer-links {
+        height: 155px !important;
+    }
+
+    .foot-panel3 .footer-language {
+        padding: 0px 8px 4px 8px !important;
+    }
+
+    .foot-panel3 .logo {
+        height: 35px !important;
+        width: 84px !important;
+    }
+
+    .foot-panel2 p {
+        font-size: 10px !important;
+        margin-bottom: 0px !important;
+    }
+
+    .foot-panel3 .footer-logo {
+        margin-bottom: 0px !important;
+    }
+
+}
+
+/* ======================= 619px ======================== */
+
+@media (max-width: 619px) {
+
+    /* ==================== goods ======================= */
+    .goods .row .col-xxl-3:first-child .link {
+        margin-top: 4px !important;
+    }
+
+    /* ===================== today ======================= */
+
+    .swiper-button-next:after,
+    .swiper-button-prev:after {
+        font-size: 20px !important;
+    }
+}
+
+/* ======================= 615px ========================= */
+
+@media(max-width:615px) {
+    header .first-header {
+        height: 42px !important;
+    }
+
+    .first-header .location {
+        margin-top: 0 !important;
+    }
+
+    .first-header .location i {
+        font-size: 10px;
+    }
+
+    header .first-header .nav-location .delivery {
+        line-height: 10px !important;
+    }
+
+    header .first-header .nav-location .delivery p:last-child,
+    header .first-header .list {
+        font-size: 9px !important;
+    }
+
+    header .first-header .nav-search select {
+        font-size: 8px !important;
+        padding: 0px !important;
+    }
+
+    header .first-header .nav-search input::placeholder {
+        font-size: 9px !important;
+    }
+
+    header .first-header .nav-search {
+        width: 189px !important;
+        height: 28px !important;
+    }
+
+    header .first-header .nav-search .scan img {
+        height: 13px !important;
+    }
+
+    header .first-header .india .language {
+        font-size: 9px !important;
+        margin-top: 2px;
+    }
+
+    header .first-header .account .list i {
+        margin-top: 3px;
+    }
+
+    header .first-header .account {
+        line-height: 10px;
+    }
+}
+
+/* ===================== 611px ======================= */
+
+@media(max-width:611px) {
+
+    /* ================ bestsellers ======================= */
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 20px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 17px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 78px !important;
+    }
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 55px !important;
+    }
+}
+
+
+/* ===================== 602px ========================== */
+
+@media(max-width:602px) {
+
+    /* =================== goods ======================== */
+
+    .goods h2 {
+        font-size: 13px !important;
+        line-height: 15px !important;
+    }
+
+    /* ====================== today ==================== */
+
+    .today h4 {
+        font-size: 17px !important;
+    }
+
+    /* ==================== bestsellers ============== */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 52px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 76px !important;
+    }
+}
+
+/* ====================== 599px ========================== */
+
+@media(max-width:599px) {
+
+    /* =================== goods ========================== */
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 23px !important;
+    }
+
+    /* =================== bestsellers ==================== */
+
+    .bestsellers h2 {
+        font-size: 12px !important;
+        line-height: 14px !important;
+    }
+
+    .bestsellers .card .body .images-data a p {
+        font-size: 8px !important;
+        line-height: 13px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 15px !important;
+    }
+}
+
+/* ====================== 596px ============================ */
+
+@media(max-width:596px) {
+    /* =================== goods ========================= */
+
+    .goods .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 34px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(9) .link {
+        margin-top: 22px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 20px !important;
+    }
+
+    /* ----------------------- sofa ----------------------- */
+
+    .head {
+        font-size: 12px !important;
+    }
+
+    /* ==================== bestsellers ==================== */
+
+    .bestsellers .row .col-xxl-3:nth-child(9) .body .line-1 .images-data a p {
+        margin-bottom: 8px !important;
+    }
+}
+
+/* ===================== 591px ======================== */
+
+@media (max-width:591px) {
+
+    /* ===================== bestsellers ================= */
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .line-1 .images-data a p {
+        margin-bottom: 0px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 8px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 34px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 74px !important;
+    }
+}
+
+/* ======================= 579px =========================== */
+
+@media(max-width:579px) {
+    /* ==================== goods ========================== */
+
+    .goods .row .col-xxl-3:first-child .link {
+        margin-top: 16px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:nth-child(2) .link-2 {
+        margin-top: 32px !important;
+    }
+
+    /* ==================== bestsellers ================= */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 30px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 70px !important;
+    }
+}
+
+/* ====================== 575px =========================== */
+
+@media(max-width:575px) {
+
+    /* ================== goods ============================ */
+
+    .goods h2 {
+        font-size: 16px !important;
+        line-height: 19px !important;
+    }
+
+    .goods .card .body .images-data a p {
+        font-size: 10px !important;
+        line-height: 15px !important;
+
+    }
+
+    .goods .row .col-xxl-3 .link {
+        font-size: 11px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 0px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:nth-child(2) .link-2 {
+        margin-top: 22px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 14px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(7) .line-1 .images-data a p {
+        margin-bottom: 21px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 14px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 25px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(8) .link {
+        margin-top: 11px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 18px !important;
+    }
+
+    /* ================ bestsellers ============== */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 56px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 65px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 6px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 17px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 11px !important;
+    }
+
+    .bestsellers .card .body .images-data a p {
+        font-size: 11px !important;
+        line-height: 16px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 10px !important;
+    }
+
+    /* ================== watch ================== */
+
+    card {
+        width: 49% !important;
+        margin-bottom: 7px;
+    }
+}
+
+/* ======================= 574px =========================== */
+
+@media(max-width:574px) {
+
+    /* ====================== goods ======================= */
+
+    .goods .row .col-xxl-3:first-child .link {
+        margin-top: 32px !important;
+    }
+}
+
+/* ======================= 563px =========================== */
+
+@media(max-width:563px) {
+
+    /* ====================== goods ======================== */
+
+    .goods .row:first-child .col-xxl-3:first-child .line-1 .images-data a p {
+        margin-bottom: 28px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 13px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:nth-child(2) .link-2 {
+        margin-top: 12px !important;
+    }
+
+    /* =================== bestsellers ============ */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 59px !important;
+    }
+
+}
+
+/* ======================= 554px =========================== */
+
+@media(max-width:554px) {
+
+    /* ==================== header ========================= */
+    header .first-header .nav-logo {
+        height: 33px !important;
+        width: 64px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 19px !important;
+    }
+
+    header .first-header .nav-location .delivery p:first-child,
+    header .first-header .account .hello {
+        font-size: 7px !important;
+    }
+
+    header .first-header .nav-location .delivery p:last-child,
+    header .first-header .list {
+        font-size: 8px !important;
+    }
+
+    header .first-header {
+        height: 37px !important;
+    }
+
+    header .first-header .nav-search .search-icon i {
+        font-size: 11px !important;
+    }
+
+    header .first-header .nav-search {
+        width: 166px !important;
+        height: 28px !important;
+    }
+
+    header .first-header .cart .count i {
+        font-size: 16px !important;
+    }
+
+    header .first-header .cart .count .add {
+        right: 9px !important;
+        bottom: 6px !important;
+        font-size: 9px !important;
+    }
+
+    header .second-header {
+        height: 30px !important;
+        font-size: 10px !important;
+    }
+
+    header .first-header .cart .count #add {
+        right: 9px !important;
+        bottom: 8px !important;
+        font-size: 10px;
+    }
+
+    /* ================== bestsellers ================ */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 64px !important;
+    }
+}
+
+/* ============================== 549px ===================== */
+
+@media(max-width:549px) {
+
+    /* ==================== goods ========================= */
+
+    .goods .row:first-child .col-xxl-3:nth-child(2) .link-2 {
+        margin-top: 26px !important;
+    }
+
+    .goods .row .col-xxl-3:first-child .link {
+        margin-top: 28px !important;
+    }
+
+    /* ====================== sofa ==================== */
+
+    .sofa .sofa-heading a {
+        font-size: 9px !important;
+    }
+
+    .head {
+        font-size: 11px !important;
+    }
+}
+
+/* ========================== 537px ================= */
+
+@media(max-width:537px) {
+
+    /* =================== bestsellers ============== */
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 31px !important;
+    }
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 68px !important;
+    }
+}
+
+/* ============================== 533px ====================== */
+
+@media(max-width:533px) {
+
+    /* ====================== goods ======================== */
+
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 36px !important;
+    }
+
+    /* ======================= today ====================== */
+
+    .swiper-button-next:after,
+    .swiper-button-prev:after {
+        padding: 22px 14px 22px 14px !important;
+        font-size: 13px !important;
+    }
+
+    /* ====================== bestsellers ============ */
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 17px !important;
+    }
+}
+
+/* ============================ 530px ======================= */
+
+@media(max-width:530px) {
+    /* ====================== goods ======================== */
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 35px !important;
+    }
+
+    /* =================== bestsellers ============== */
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 11px !important;
+    }
+}
+
+/* ============================= 524px ======================= */
+
+@media(max-width:524px) {
+
+    /* ======================= goods ========================= */
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 29px !important;
+    }
+
+    /* =================== bestsellers ================ */
+
+    .bestsellers .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 13px !important;
+    }
+
+    .bestsellers .card .body .images-data a p {
+        font-size: 10px !important;
+        line-height: 15px !important;
+    }
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 73px !important;
+    }
+}
+
+/* ============================= 521px ======================= */
+
+@media(max-width:521px) {
+
+    /* ===================== goods ======================== */
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 47px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(8) .link {
+        margin-top: 4px !important;
+    }
+
+    /* =================== today ================= */
+
+    .today h4 {
+        font-size: 14px !important;
+    }
+
+    /* ==================== bestsellers ================= */
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 11px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(8) .link {
+        margin-top: 11px !important;
+    }
+}
+
+/* ========================= 519px ===================== */
+
+@media(max-width:519px) {
+    /* ================== footer ================== */
+
+    footer .details-links a {
+        font-size: 7px !important;
+        line-height: 10px !important;
+    }
+
+    .foot-panel3 .logo {
+        height: 32px !important;
+        width: 65px !important;
+    }
+
+    .foot-panel2 p {
+        font-size: 9px !important;
+    }
+
+    footer a {
+        font-size: 7px !important;
+        line-height: 4px;
+    }
+
+    .footer-links {
+        height: 138px !important;
+    }
+}
+
+/* ======================== 418px ====================== */
+
+@media(max-width:418px) {
+
+    /* ================= footer ==================== */
+
+    footer a {
+        font-size: 7px !important;
+    }
+
+    .foot-panel2 p {
+        font-size: 8px !important;
+    }
+
+    .footer-links {
+        height: 132px !important;
+    }
+}
+
+/* ============================= 512px ========================= */
+
+@media(max-width:512px) {
+
+    /* ========================== goods ======================= */
+
+    .goods .row .col-xxl-3:first-child .link {
+        margin-top: 13px !important;
+    }
+
+    /* ======================== today ======================== */
+
+    .today h4 {
+        font-size: 16px !important;
+    }
+}
+
+/* ============================ 502px ======================= */
+
+@media(max-width:502px) {
+
+    /* ========================= goods ======================= */
+
+    .goods .row .col-xxl-3:nth-child(6) .link {
+        margin-top: 14px !important;
+    }
+}
+
+/* ================ 496px ================= */
+
+@media(max-width:496px) {
+
+    /* ====================== bestsellers ================= */
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 30px !important;
+    }
+}
+
+/* ============================== 490px ====================== */
+
+@media(max-width:490px) {
+
+    /* ========================= header ===================== */
+
+    header .first-header .nav-logo {
+        height: 27px !important;
+        width: 52px !important;
+    }
+
+    .first-header .location i {
+        font-size: 8px;
+    }
+
+    header .first-header {
+        height: 31px !important;
+    }
+
+    header .first-header .nav-search {
+        width: 146px !important;
+        height: 21px !important;
+    }
+
+    header .first-header .india .language {
+        font-size: 7px !important;
+        margin-top: 0px !important;
+    }
+
+    header .first-header .nav-location .delivery p:first-child,
+    header .first-header .account .hello {
+        font-size: 5px !important;
+    }
+
+    header .first-header .nav-location .delivery p:last-child,
+    header .first-header .list {
+        font-size: 6px !important;
+    }
+
+    header .first-header .nav-search input::placeholder {
+        font-size: 7px !important;
+    }
+
+    header .first-header .india img {
+        height: 6px !important;
+        width: 9px !important;
+        margin-top: 2px !important;
+    }
+
+    header .first-header .nav-search .scan img {
+        height: 10px !important;
+    }
+
+    header .first-header .nav-location .delivery {
+        line-height: 8px !important;
+    }
+
+    header .first-header .same {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+
+    header .first-header .same:last-child {
+        margin-top: 2px !important;
+    }
+
+    header .first-header .cart .count i {
+        font-size: 10px !important;
+    }
+
+    header .first-header .cart .count .add {
+        right: 8px !important;
+        bottom: 6px !important;
+        font-size: 6px !important;
+    }
+
+    header .first-header .cart .count #add {
+        right: 8px !important;
+        bottom: 7px !important;
+        font-size: 6px;
+    }
+
+    /* ====================== TODAY ======================= */
+
+    .font-size {
+        font-size: 8px !important;
+    }
+
+    .today .today-data .dis-data {
+        font-size: 8px !important;
+    }
+
+    /* ==================== sofa ==================== */
+
+    .sofa .sofa-heading a {
+        font-size: 8px !important;
+    }
+
+    .head {
+        font-size: 9px !important;
+    }
+
+    .swiper-button-next:after,
+    .swiper-button-prev:after {
+        padding: 20px 12px 20px 12px !important;
+        font-size: 11px !important;
+    }
+
+}
+
+/* ==================== 475px =================== */
+
+@media(max-width:475px) {
+
+    /* ================ goods ================= */
+
+    .goods .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 20px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 32px !important;
+    }
+
+    /* ================== bestsellers =============== */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 65px !important;
+    }
+}
+
+/* ====================== 473px ================= */
+
+@media(max-width:473px) {
+
+    /* ================== goods ============== */
+
+    .goods .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 14px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 5px !important;
+    }
+
+    /* ===================== bestsellers ============= */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 8px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 64px !important;
+    }
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 65px !important;
+    }
+
+    .bestsellers .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 32px !important;
+    }
+}
+
+/* ====================== 471px ================= */
+
+@media(max-width:471px) {
+
+    /* ================== goods ============== */
+
+    .goods h2 {
+        font-size: 14px !important;
+        line-height: 19px !important;
+    }
+
+    /* ============== bestsellers ============= */
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 11px !important;
+    }
+}
+
+/* ====================== 468px ================= */
+
+@media(max-width:468px) {
+
+    /* ================== goods ============== */
+
+    .goods .card .body .images-data a p {
+        font-size: 8px !important;
+        line-height: 13px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:nth-child(2) .link-2 {
+        margin-top: 14px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 31px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 17px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 28px !important;
+    }
+
+    /* =============== bestsellers ============ */
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 25px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 18px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 11px !important;
+    }
+}
+
+/* ====================== 461px ================= */
+
+@media(max-width:461px) {
+
+    /* ================== goods ============== */
+
+    .goods .row:last-child .col-xxl-3:nth-child(7) .line-1 .images-data a p {
+        margin-bottom: 34px !important;
+    }
+
+    /* ================== bestsellers ============ */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 60px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 23px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 15px !important;
+    }
+}
+
+/* ====================== 457px ================= */
+
+@media(max-width:457px) {
+
+    /* ================== goods ============== */
+
+    .goods .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 7px !important;
+    }
+
+    /* =============== bestsellres ============ */
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 55px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 15px !important;
+    }
+}
+
+/* ====================== 447px ================= */
+
+@media(max-width:447px) {
+
+    /* ================== goods ============== */
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 29px !important;
+    }
+
+    .goods .row:first-child .col-xxl-3:first-child .line-1 .images-data a p {
+        margin-bottom: 16px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(7) .line-1 .images-data a p {
+        margin-bottom: 34px !important;
+    }
+
+    /* ==================== bestsellesrs ========== */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 58px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 11px !important;
+    }
+
+    .bestsellers h2 {
+        font-size: 13px !important;
+        line-height: 18px !important;
+    }
+}
+
+/* ====================== 439px ================= */
+
+@media(max-width:439px) {
+
+    /* ================== goods ============== */
+
+    .goods .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 31px !important;
+    }
+
+    /* ================ bestdellers ============== */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 17px !important;
+    }
+}
+
+/* ====================== 430px ================= */
+
+@media(max-width:430px) {
+
+    /* ================== goods ============== */
+
+    .goods h2 {
+        font-size: 11px !important;
+        line-height: 15px !important;
+    }
+
+    .goods .card .body .images-data a p {
+        font-size: 7px !important;
+        line-height: 11px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 1px !important;
+    }
+
+    .goods .row .col-xxl-3:first-child .link {
+        margin-top: 26px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(4) .line-1 .images-data a p {
+        margin-bottom: 4px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(7) .line-1 .images-data a p {
+        margin-bottom: 0px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 26px !important;
+    }
+
+    /* =================== bestsellers =========== */
+
+    .goods .row:first-child .col-xxl-3:nth-child(3) .link {
+        margin-top: 16px !important;
+    }
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 53px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(7) .link {
+        margin-top: 11px !important;
+    }
+}
+
+/* ====================== 427px ================= */
+
+@media(max-width:427px) {
+
+    /* ================== goods =============== */
+
+    .goods .row:last-child .col-xxl-3:nth-child(7) .line-1 .images-data a p {
+        margin-bottom: 13px !important;
+    }
+
+}
+
+/* ====================== 423px ================= */
+
+@media(max-width:423px) {
+
+    /* ================== goods =============== */
+
+    .font-size {
+        font-size: 7px !important;
+    }
+
+    .today .today-data .dis-data {
+        font-size: 7px !important;
+    }
+
+}
+
+/* ====================== 421px ================= */
+
+@media(max-width:421px) {
+
+    /* ================== goods =============== */
+
+    .goods .row:last-child .col-xxl-3:nth-child(5) .line-1 .images-data a p {
+        margin-bottom: 18px !important;
+    }
+
+    .goods .row .col-xxl-3:first-child .link {
+        margin-top: 11px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(7) .line-1 .images-data a p {
+        margin-bottom: 11px !important;
+    }
+
+}
+
+/* ====================== 415px ================= */
+
+@media(max-width:415px) {
+
+    /* ================== goods =============== */
+
+    .goods .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 12px !important;
+    }
+
+    /* ================ bestsellers ============ */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 45px !important;
+    }
+}
+
+/* ====================== 413px ================= */
+
+@media(max-width:413px) {
+
+    /* ================ bestsellers ============ */
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 8px !important;
+    }
+}
+
+/* ====================== 410px ================= */
+
+@media(max-width:410px) {
+
+    /* ================== goods =============== */
+
+    .goods .row .col-xxl-3:nth-child(4) .line-1 .images-data a p {
+        margin-bottom: 19px !important;
+    }
+
+    /* ================ bestsellers ============ */
+
+    .goods .row .col-xxl-3:nth-child(4) .line-1 .images-data a p {
+        margin-bottom: 4px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 49px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 8px !important;
+    }
+}
+
+
+/* ====================== 408px ================= */
+
+@media(max-width:408px) {
+
+    /* ================== goods =============== */
+
+    .goods .row .col-xxl-3 .link {
+        font-size: 9px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 18px !important;
+    }
+}
+
+/* ====================== 402px ================= */
+
+@media(max-width:402px) {
+
+    /* ================== goods =============== */
+
+    .goods h2 {
+        font-size: 10px !important;
+        line-height: 13px !important;
+    }
+
+    .goods .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 0px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(4) .line-1 .images-data a p {
+        margin-bottom: 10px !important;
+    }
+
+    .goods .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 25px !important;
+    }
+
+    /* ================ bestsellers ============== */
+
+    .bestsellers .row .col-xxl-3:nth-child(5) .link {
+        margin-top: 12px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(4) .link {
+        margin-top: 13px !important;
+    }
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 45px !important;
+    }
+
+    .bestsellers .row .col-xxl-3:nth-child(2) .link {
+        margin-top: 49px !important;
+    }
+
+
+}
+
+/* ====================== 397px ================ */
+
+@media(max-width:397px) {
+
+    /* ============== today ================ */
+
+    .font-size {
+        font-size: 6px !important;
+    }
+}
+
+/* ====================== 395px ================= */
+
+@media(max-width:395px) {
+
+    /* ================== header =============== */
+
+    header .first-header .nav-search {
+        width: 128px !important;
+        height: 21px !important;
+    }
+
+    /* ================== goods =============== */
+
+    .goods .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 12px !important;
+    }
+
+    /* ===================== bestsellers ========== */
+
+    .bestsellers .row:last-child .col-xxl-3:nth-child(2) .line-1 .images-data a p {
+        margin-bottom: 41px !important;
+    }
+}
+
+/* ======================= 378px ================= */
+
+@media(max-width:378px) {
+
+    /* ===================== footer ============== */
+
+    .foot-panel3 .logo {
+        height: 27px !important;
+        width: 48px !important;
+    }
+
+    .footer-links {
+        height: 117px !important;
+    }
+
+    .foot-panel2 p {
+        font-size: 7px !important;
+    }
+
+    footer a {
+        font-size: 6px !important;
+        line-height: 2px;
+    }
+
+    footer .details-links a {
+        font-size: 6px !important;
+        line-height: 9px !important;
+    }
+
+    .foot-panel1 {
+        height: 29px !important;
+    }
+
+    footer .details-links {
+        padding: 7px 0 !important;
+    }
+
+    footer .establish-link {
+        font-size: 8px !important;
+    }
+
+    footer .establish-link {
+        padding: 0px 0 18px !important;
+    }
+}

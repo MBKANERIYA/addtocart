@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <style>
+        card {
+            width: 24%;
+        }
+
+        .watch-image i {
+            padding: 5px;
+            color: #bbb9b9;
+        }
+
+        .watch-image button {
+            border-radius: 5px;
+            border-color: #c9c6c6;
+
+        }
+    </style>
+
+    <header>
+        <div class="first-header d-flex align-items-center justify-content-evenly">
+            <a href="index.html" class="nav-logo line">
+                <div class="logo"></div>
+            </a>
+
+            <a href="javascript:void(0);" class="nav-location d-flex align-items-center line">
+                <div class="location mt-2 pe-1">
+                    <i class="fa-solid fa-location-dot"></i>
+                </div>
+                <div class="delivery">
+                    <p class="mb-0">Delivering to Surat 394210</p>
+                    <p class="mb-0">Update Location</p>
+                </div>
+            </a>
+
+            <a href="javascript:void(0);" class="nav-search d-flex justify-content-between rounded">
+                <select class="border-0 rounded-start">
+                    <option>All</option>
+                </select>
+                <input type="text" class="border-0 ps-2" placeholder="Search Amazon.in">
+                <div class="scan border-0 my-auto pe-2"><img src="images/lens.png" alt=""></div>
+                <div class="search-icon d-flex justify-content-center align-items-center rounded-end">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </div>
+            </a>
+
+            <a href="javascript:void(0);">
+                <div class="space pt-2"></div>
+                <div class="india d-flex line">
+                    <img src="images/india.jpg" alt="">
+                    <div class="language ps-1 pe-1">EN</div>
+                    <i class="fa-solid fa-caret-down same"></i>
+                </div>
+            </a>
+
+            <a href="javascript:void(0);">
+                <div class="account">
+                    <div class="hello">Hello,Sign in</div>
+                    <div class="list d-flex">
+                        <p class=" m-0 pe-1">Accounts & List</p>
+                        <i class="fa-solid fa-caret-down same"></i>
+                    </div>
+
+                </div>
+            </a>
+
+            <a href="javascript:void(0);">
+                <div class="account">
+                    <div class="hello">Returns</div>
+                    <div class="list">& Orders</div>
+                </div>
+            </a>
+
+            <a href="cart.html">
+                <div class="cart d-flex">
+                    <div class="count pe-1">
+                        <div id="add"></div>
+                        <i class="fa-solid fa-cart-shopping"></i>
+                    </div>
+                    <div class="list pt-2">Cart</div>
+                </div>
+            </a>
+        </div>
+
+        <div class="second-header d-flex align-items-center">
+            <a href="index.html" class="pe-3">Home</a>
+            <a href="product.html">Product</a>
+        </div>
+    </header>
+
+    <!-- ======================= watch ========================== -->
+
+    <section class="watch mt-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-2 d-xl-none d-block col-12">
+                    <button class="btn btn-primary mb-4" type="button" data-bs-toggle="offcanvas"
+                        data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling">
+                        Details</button>
+
+                    <div class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1"
+                        id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
+                        <div class="offcanvas-header">
+                            <h5 class="offcanvas-title" id="offcanvasScrollingLabel">Product Details</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="offcanvas"
+                                aria-label="Close"></button>
+                        </div>
+                        <div class="offcanvas-body">
+                            <div class="delivery-day">
+                                <h6>Delivery Day</h6>
+                                <li>
+                                    <input type="checkbox" class="me-1"><label>Get It Today</label>
+                                </li>
+                                <li>
+                                    <input type="checkbox" class="me-1"><label>Get It Today</label>
+                                </li>
+                                <li>
+                                    <input type="checkbox" class="me-1"><label>Get It Today</label>
+                                </li>
+                            </div>
+
+                            <div class="category mt-2">
+                                <h6>category</h6>
+
+                                <li><a href="javascript:void(0);">Men's Wrist Watches</a></li>
+                                <li><a href="javascript:void(0);">Smart Watches</a></li>
+                                <li><a href="javascript:void(0);">Women's Fashion Smartwatches</a></li>
+                                <li><a href="javascript:void(0);">Men's Fashion Smartwatches</a></li>
+                                <li><a href="javascript:void(0);">Women's Wrist Watches</a></li>
+                                <li><a href="javascript:void(0);">Men's Sunglasses & Spectacle Frames</a></li>
+                                <li><a href="javascript:void(0);">Men's Sunglasses</a></li>
+                                <li><a href="javascript:void(0);">Handbags, Purses & Clutches</a></li>
+                            </div>
+
+                            <div class="customer-review mt-2">
+                                <h6>customer-review</h6>
+                                <li>
+                                    <a href="javascript:void(0);" class="star">
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-regular fa-star"></i>
+                                        <span>& up</span>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="javascript:void(0);" class="star">
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-regular fa-star"></i>
+                                        <i class="fa-regular fa-star"></i>
+                                        <span>& up</span>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="javascript:void(0);" class="star">
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-regular fa-star"></i>
+                                        <i class="fa-regular fa-star"></i>
+                                        <i class="fa-regular fa-star"></i>
+                                        <span>& up</span>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="javascript:void(0);" class="star">
+                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-regular fa-star"></i>
+                                        <i class="fa-regular fa-star"></i>
+                                        <i class="fa-regular fa-star"></i>
+                                        <i class="fa-regular fa-star"></i>
+                                        <span>& up</span>
+                                    </a>
+                                </li>
+                            </div>
+
+                            <div class="brand mt-2">
+                                <h6>Brand</h6>
+                                <li><input type="checkbox" class="me-1"><label>Fastrack</label></li>
+                                <li><input type="checkbox" class="me-1"><label>SKMEI</label></li>
+                                <li><input type="checkbox" class="me-1"><label>TIMEX</label></li>
+                                <li><input type="checkbox" class="me-1"><label>NAVIFORCE</label></li>
+                                <li><input type="checkbox" class="me-1"><label>V2A</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Acnos</label></li>
+                                <li><input type="checkbox" class="me-1"><label>SWADESI STUFF</label></li>
+                            </div>
+
+                            <div class="price mt-2">
+                                <h6>Price</h6>
+
+                                <a href="javascript:void(0);">
+                                    <li>Under ₹2,000</li>
+                                    <li>₹2,000 - ₹5,000</li>
+                                    <li>₹5,000 - ₹10,000</li>
+                                    <li>₹10,000 - ₹20,000</li>
+                                </a>
+                            </div>
+
+                            <div class="Discount mt-2">
+                                <h6>Discount</h6>
+                                <a href="javascript:void(0);">
+                                    <li>10% Off or more</li>
+                                    <li>25% Off or more</li>
+                                    <li>35% Off or more</li>
+                                    <li>50% Off or more</li>
+                                    <li>60% Off or more</li>
+                                    <li>70% Off or more</li>
+                                </a>
+
+                            </div>
+
+                            <div class="Material mt-2">
+                                <h6>Watchband Material</h6>
+
+                                <li><input type="checkbox" class="me-1"><label>Ceramic</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Fabric</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Gold Plated</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Leather</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Nylon</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Plastic</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Resin</label></li>
+                            </div>
+
+                            <div class="style mt-2">
+                                <h6>Watch style</h6>
+
+                                <li><input type="checkbox" class="me-1"><label>Casual</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Dress</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Fashion</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Luxury</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Sport</label></li>
+                                <li><input type="checkbox" class="me-1"><label>Wedding</label></li>
+                            </div>
+
+                            <div class="Resistance mt-2">
+                                <h6>Water Resistance</h6>
+
+                                <li><input type="checkbox" class="me-1"><label>Up to 9 m</label></li>
+                                <li><input type="checkbox" class="me-1"><label>10 m - 29 m</label></li>
+                                <li><input type="checkbox" class="me-1"><label>30 m - 49 m</label></li>
+                                <li><input type="checkbox" class="me-1"><label>50 m - 99 m</label></li>
+                                <li><input type="checkbox" class="me-1"><label>100 m - 199 m</label></li>
+                                <li><input type="checkbox" class="me-1"><label>200 m & more</label></li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-2 d-xl-block d-none">
+                    <div class="delivery-day">
+                        <h6>Delivery Day</h6>
+                        <li>
+                            <input type="checkbox" class="me-1"><label>Get It Today</label>
+                        </li>
+                        <li>
+                            <input type="checkbox" class="me-1"><label>Get It Today</label>
+                        </li>
+                        <li>
+                            <input type="checkbox" class="me-1"><label>Get It Today</label>
+                        </li>
+                    </div>
+
+                    <div class="category mt-2">
+                        <h6>category</h6>
+
+                        <li><a href="javascript:void(0);">Men's Wrist Watches</a></li>
+                        <li><a href="javascript:void(0);">Smart Watches</a></li>
+                        <li><a href="javascript:void(0);">Women's Fashion Smartwatches</a></li>
+                        <li><a href="javascript:void(0);">Men's Fashion Smartwatches</a></li>
+                        <li><a href="javascript:void(0);">Women's Wrist Watches</a></li>
+                        <li><a href="javascript:void(0);">Men's Sunglasses & Spectacle Frames</a></li>
+                        <li><a href="javascript:void(0);">Men's Sunglasses</a></li>
+                        <li><a href="javascript:void(0);">Handbags, Purses & Clutches</a></li>
+                    </div>
+
+                    <div class="customer-review mt-2">
+                        <h6>customer-review</h6>
+                        <li>
+                            <a href="javascript:void(0);" class="star">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <span>& up</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="star">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <span>& up</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="star">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <span>& up</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class="star">
+                                <i class="fa-solid fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <span>& up</span>
+                            </a>
+                        </li>
+                    </div>
+
+                    <div class="brand mt-2">
+                        <h6>Brand</h6>
+                        <li><input type="checkbox" class="me-1"><label>Fastrack</label></li>
+                        <li><input type="checkbox" class="me-1"><label>SKMEI</label></li>
+                        <li><input type="checkbox" class="me-1"><label>TIMEX</label></li>
+                        <li><input type="checkbox" class="me-1"><label>NAVIFORCE</label></li>
+                        <li><input type="checkbox" class="me-1"><label>V2A</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Acnos</label></li>
+                        <li><input type="checkbox" class="me-1"><label>SWADESI STUFF</label></li>
+                    </div>
+
+                    <div class="price mt-2">
+                        <h6>Price</h6>
+
+                        <a href="javascript:void(0);">
+                            <li>Under ₹2,000</li>
+                            <li>₹2,000 - ₹5,000</li>
+                            <li>₹5,000 - ₹10,000</li>
+                            <li>₹10,000 - ₹20,000</li>
+                        </a>
+                    </div>
+
+                    <div class="Discount mt-2">
+                        <h6>Discount</h6>
+                        <a href="javascript:void(0);">
+                            <li>10% Off or more</li>
+                            <li>25% Off or more</li>
+                            <li>35% Off or more</li>
+                            <li>50% Off or more</li>
+                            <li>60% Off or more</li>
+                            <li>70% Off or more</li>
+                        </a>
+
+                    </div>
+
+                    <div class="Material mt-2">
+                        <h6>Watchband Material</h6>
+
+                        <li><input type="checkbox" class="me-1"><label>Ceramic</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Fabric</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Gold Plated</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Leather</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Nylon</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Plastic</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Resin</label></li>
+                    </div>
+
+                    <div class="style mt-2">
+                        <h6>Watch style</h6>
+
+                        <li><input type="checkbox" class="me-1"><label>Casual</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Dress</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Fashion</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Luxury</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Sport</label></li>
+                        <li><input type="checkbox" class="me-1"><label>Wedding</label></li>
+                    </div>
+
+                    <div class="Resistance mt-2">
+                        <h6>Water Resistance</h6>
+
+                        <li><input type="checkbox" class="me-1"><label>Up to 9 m</label></li>
+                        <li><input type="checkbox" class="me-1"><label>10 m - 29 m</label></li>
+                        <li><input type="checkbox" class="me-1"><label>30 m - 49 m</label></li>
+                        <li><input type="checkbox" class="me-1"><label>50 m - 99 m</label></li>
+                        <li><input type="checkbox" class="me-1"><label>100 m - 199 m</label></li>
+                        <li><input type="checkbox" class="me-1"><label>200 m & more</label></li>
+                    </div>
+                </div>
+
+                <div class="col-xl-10 col-12">
+                    <div class="watch-data">
+                        <h4>Results</h4>
+                        <p>Price and other details may vary based on product size and colour.</p>
+                    </div>
+
+                    <div id="watchline" class="d-flex justify-content-between flex-wrap">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    <!-- ======================= footer ========================= -->
+
+    <footer>
+
+        <div class="foot-panel1">
+            <a href="javascript:void(0);">Back To Top</a>
+        </div>
+
+        <div class="footer-background">
+            <div class="footer-links">
+                <div
+                    class="foot-panel2 col-xl-8 col-lg-11 col-12 mx-auto d-flex justify-content-lg-between justify-content-evenly">
+                    <ul class="p-0">
+                        <p>Get To know us </p>
+                        <a href="javascript:viod(0);">About us</a>
+                        <a href="javascript:viod(0);">Careers</a>
+                        <a href="javascript:viod(0);">Press releases</a>
+                        <a href="javascript:viod(0);">Amazon science</a>
+                    </ul>
+                    <ul class="p-0">
+                        <p>Connect with Us</p>
+                        <a href="javascript:void(0),">Facebook</a>
+                        <a href="javascript:void(0),">Twitter</a>
+                        <a href="javascript:void(0),">Instagram</a>
+                    </ul>
+                    <ul class="p-0">
+                        <p>Make Money with Us</p>
+                        <a href="javascript:void(0);">Sell on Amazon</a>
+                        <a href="javascript:void(0);">Sell under Amazon Accelerator</a>
+                        <a href="javascript:void(0);">Protect and Build Your Brand</a>
+                        <a href="javascript:void(0);">Amazon Global Selling</a>
+                        <a href="javascript:void(0);">Become an Affiliate</a>
+                        <a href="javascript:void(0);">Fulfilment by Amazon</a>
+                        <a href="javascript:void(0);">Advertise Your Products</a>
+                        <a href="javascript:void(0);">Amazon Pay on Merchants</a>
+                    </ul>
+                    <ul class="p-0">
+                        <p>Let Us Help You </p>
+                        <a href="javascript(0);">COVID-19 and Amazon</a>
+                        <a href="javascript(0);">Your Account</a>
+                        <a href="javascript(0);">Returns Centre</a>
+                        <a href="javascript(0);">100% Purchase Protection</a>
+                        <a href="javascript(0);">Amazon App Download</a>
+                        <a href="javascript(0);">Help</a>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="footer-line"></div>
+            <div class="foot-panel3">
+                <div class="footer-logo d-flex justify-content-center align-items-center">
+                    <a href="index.html">
+                        <div class="logo"></div>
+                    </a>
+                    <div class="footer-language">
+                        <a href="javascript:void(0);" class="footer-english"><i
+                                class="fa-solid fa-earth-americas pe-2"></i>English<i
+                                class="fa-solid fa-up-down ps-3"></i></a>
+
+                    </div>
+                </div>
+
+                <div class="footer-country">
+                    <ul class="m-0 p-0 d-flex flex-wrap justify-content-center align-items-center">
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Australia</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Brazil</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Canada</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">China</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">France</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Germany</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Italy</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Japan</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Mexico</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Netherlands</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Poland</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Singapore</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Spain</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2">Turkey</a></li>
+                        <li><a href="javascript:void(0);" class="pe-2 ps-2 d-xl-block d-none">United Arab Emirates</a>
+                        </li>
+
+                    </ul>
+                    <ul class="d-flex align-items-center p-0 col-lg-2 col-sm-3 col-5 justify-content-evenly mx-auto">
+                        <li><a href="javascript:void(0);">United Kingdom</a></li>
+                        <li><a href="javascript:void(0);">United States</a></li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="details-links">
+                <div class="container">
+                    <div class="row d-flex">
+                        <div class="col-xl-9 col-lg-11 mx-auto">
+                            <div class="row justify-content-evenly">
+
+                                <div class="col-2 p-sm-2 p-0">
+                                    <div class="abebook">
+                                        <div class="abebook-links mb-2">
+                                            <a href="javascript:void(0);">
+                                                AbeBooks <br>
+                                                <P>Books, art<br>& collectibles </P>
+                                            </a>
+                                        </div>
+                                        <div class="shopbop-links">
+                                            <a href="javascript:void(0);">
+                                                Shopbop <br>
+                                                <P>Designer <br> Fashion Brands</P>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-2 p-sm-2 p-0">
+                                    <div class="abebook">
+                                        <div class="abebook-links mb-2">
+                                            <a href="javascript:void(0);">
+                                                Amazon Web Services <br>
+                                                <P>Scalable Cloud<br>Computing Services </P>
+                                            </a>
+                                        </div>
+                                        <div class="shopbop-links">
+                                            <a href="javascript:void(0);">
+                                                Amazon Business <br>
+                                                <P>Everything For <br> Your Business</P>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-2 p-sm-2 p-0">
+                                    <div class="abebook">
+                                        <div class="abebook-links mb-2">
+                                            <a href="javascript:void(0);">
+                                                Audible <br>
+                                                <P>Download<br>Audio Books </P>
+                                            </a>
+                                        </div>
+                                        <div class="shopbop-links">
+                                            <a href="javascript:void(0);">
+                                                Prime Now <br>
+                                                <P> 2-Hour Delivery <br> on Everyday Items</P>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-3 p-sm-2 p-0">
+                                    <div class="abebook">
+                                        <div class="abebook-links mb-3">
+                                            <a href="javascript:void(0);">
+                                                IMDb <br>
+                                                <P>Movies, TV<br> & Celebrities </P>
+                                            </a>
+                                        </div>
+                                        <div class="shopbop-links">
+                                            <a href="javascript:void(0);">
+                                                Amazon Prime Music <br>
+                                                <P>100 million songs, ad-free<br>Over 15 million podcast episodes </P>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="establish-link">
+                <ul class="d-flex justify-content-center m-0">
+                    <li><a href="javascript:void(0);" class="pe-2 ps-2">Conditions of Use & Sale</a></li>
+                    <li><a href="javascript:void(0);" class="pe-2 ps-2">Privacy Notice</a></li>
+                    <li><a href="javascript:void(0);" class="pe-2 ps-2">Interest-Based Ads</a></li>
+                </ul>
+
+                <p class="text-center m-0">© 1996-2024, Amazon.com, Inc. or its affiliates</p>
+            </div>
+
+        </div>
+
+    </footer>
+
+
+    <script src="js/swiper-bundle.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+            slidesPerView: 1,
+            spaceBetween: 30,
+            loop: true,
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+        });
+    </script>
+
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+            pagination: {
+                el: ".swiper-pagination",
+                type: "progressbar",
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+        });
+    </script>
+
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+            // scrollbar: {
+            //     el: ".swiper-scrollbar",
+            //     hide: true,
+            // },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+        });
+    </script>
+
+    <script>
+
+        let watch = JSON.parse(localStorage.getItem("watch"));
+
+        let watchline = document.getElementById("watchline");
+
+        let watchLoad = () => {
+
+            watch.map((watch, ind) => {
+
+                let card = document.createElement("card");
+
+                card.innerHTML = `<div class="watch-card">
+                                        <div class="watch-image position-relative">
+                                            <a href="javascript:void(0);">
+                                                <img src="${watch.watchImage}"></img>
+                                            </a>
+                                            <button onclick="addtocart(${ind})" class="position-absolute top-0 end-0 bg-white">
+                                                <i class="fa-solid fa-cart-shopping"></i>
+                                            </button>
+                                        </div>
+                                        
+
+                                    <div class="watch-body text-center">
+                                        <a href="javascript:void(0);"><u>+${watch.watchQty}colours/patterns</u></a>
+
+                                        <div class="watch-title">
+                                            <h2 class="m-0 mt-2 mb-1">${watch.watchName}</h2>
+                                            <a href="javascript:void(0);">
+                                                <h2 class="m-0">${watch.watchDisc}</h2>
+                                            </a>
+                                        </div>
+
+                                        <div class="past-data">
+                                            <p class="m-0">${watch.watchSale}+ bought in past month</p>
+                                        </div>
+
+                                        <div class="watch-btn">
+                                            <a href="javascript:void(0);">Deal of The Day</a>
+                                        </div>
+
+                                        <div class="watch-price d-flex justify-content-center align-items-baseline">
+                                            <div class="current-price">
+                                                <span class="pb-1"><i class="fa-solid fa-indian-rupee-sign"></i></span>
+                                                <span>${watch.watchPrice}</span>
+                                            </div>
+                                            <div class="watch-mrp">
+                                                <span>M.R.P: <del>${watch.watchMrp}</del></span>
+                                            </div>
+                                            <div class="watch-discount">
+                                                <span class="ps-1">(${watch.watchDiscount}% off)</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="watch-save">
+                                            <span>Save <i class="fa-solid fa-indian-rupee-sign"></i>${watch.watchSave}</span>
+                                            <span> with coupon</span>
+                                        </div>
+
+                                        <div class="watch-prime">
+                                            <span>FREE Delivery by Amazon</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            `
+
+                watchline.appendChild(card)
+            })
+        }
+
+        watchLoad()
+
+        let cart = JSON.parse(localStorage.getItem("cart")) || [];
+
+        let addtocart = (index) => {
+            let cartProduct = watch[index];
+
+            cart = JSON.parse(localStorage.getItem("cart"));
+
+            let sameProduct = true;
+
+            for (let i = 0; i < cart.length; i++) {
+                if (cart[i].watchImage == cartProduct.watchImage) {
+                    sameProduct = false;
+                }
+            };
+
+            if (sameProduct) {
+
+                cart.push(cartProduct)
+
+                localStorage.setItem("cart", JSON.stringify(cart))
+
+                location.reload();
+            }
+
+
+        }
+
+        let add = (document.getElementById("add").innerHTML = cart.length)
+
+    </script>
+</body>
+
+</html>
